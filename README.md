@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Math
 - 💬 Ask me about anything!
 - 📫 How to reach me: andrewmjohnson549@gmail.com
-- 😄 Pronouns: Foxtrott
