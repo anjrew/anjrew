@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects in the green energy sector
 - 🤔 I’m looking for help with Math
 - 💬 Ask me about anything!
-- 📫 How to reach me: andrewmjohnson549@gmail.com
