@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Reinforcement Learning projects
 - 👯 I’m looking to collaborate on projects in the green energy sector
 - 💬 Ask me about anything!
-- 😄 Check out my Pinned Repos :)
+- 😄 Check out my pinned Repos
