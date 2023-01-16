@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Foxtrott
 -->
 
-- 🔭 I’m currently working on Reinforcement Learning projects
-- 👯 I’m looking to collaborate on projects in the green energy sector
+- 🔭 I’m currently working on Deep Reinforcement Learning projects
+- 👯 I’m looking to collaborate on projects in the green energy sector  and robotics
 - 💬 Ask me about anything!
 - 😄 Check out my pinned repos
