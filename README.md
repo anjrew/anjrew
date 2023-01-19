@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects in the green energy sector  and robotics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-johnson-96ba18ba/)
 
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjrew]
+
+<!-- COMMENT IN TO ADD EXTRA PINS -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjrew&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjrew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
