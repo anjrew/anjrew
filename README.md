@@ -4,7 +4,7 @@
 **anjrew/anjrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🤖 I’m currently working on Deep Reinforcement Learning projects
+- 🤖 I’m currently working on Deep Reinforcement Learning projects and computer vision
 - 👯 I’m looking to collaborate on projects in the green energy sector  and robotics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-johnson-96ba18ba/)
 
