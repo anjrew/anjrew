@@ -5,7 +5,7 @@
 -->
 
 - 🤖 I’m currently working on Deep Reinforcement Learning projects and computer vision
-- 👯 I’m looking to collaborate on projects in the green energy sector  and robotics
+- 👯 I’m looking to collaborate on projects in AI, Climate Tech and Robotics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-johnson-96ba18ba/)
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
